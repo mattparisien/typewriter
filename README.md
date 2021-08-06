@@ -1,1 +1,2 @@
-# typewriter
+## typewriter app
+##Practicing setTimeOut
