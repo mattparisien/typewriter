@@ -12,5 +12,6 @@ for (const char of string) {
       console.log("\n")
     }
   }, 1000 + counter);
+  
 };
 
